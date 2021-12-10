@@ -218,7 +218,7 @@ a.behance {
   body {
     background-color: #63264a !important;
     background-image: linear-gradient(to right, transparent 40%, #63264a 40%),
-      url("pattern.png");
+      url("./pattern.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
   }
