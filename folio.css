@@ -144,7 +144,7 @@ a.behance {
   color: #f4f4f9;
   padding-top: 75px;
   background-repeat: no-repeat;
-  background-image: url('./Asset\ 2@5x.png');
+  background-image: url('./pattern.png');
   background-attachment: fixed;
   background-size: cover;
 }
@@ -222,7 +222,7 @@ a.behance {
   body {
     background-color: #63264a !important;
     background-image: linear-gradient(to right, transparent 40%, #63264a 40%),
-      url("/Users/jamiefinkelstein/Desktop/folio/folio-images/pattern.svg");
+      url("./pattern.png");
     background-repeat: no-repeat;
     background-attachment: fixed;
   }
